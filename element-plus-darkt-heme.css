@@ -507,8 +507,8 @@ body {
     color: #eee;
     display: inline-block;
     font-size: inherit;
-    height: 40px;
-    line-height: 40px;
+    height: 34px;
+    line-height: 34px;
     outline: 0;
     padding: 0 15px;
     -webkit-transition: border-color 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -570,7 +570,7 @@ body {
     text-align: center;
     -webkit-transition: all .3s;
     transition: all .3s;
-    line-height: 40px
+    line-height: 34px
 }
 
 .el-input__icon:after {
@@ -626,12 +626,12 @@ body {
 }
 
 .el-input--medium .el-input__inner {
-    height: 36px;
-    line-height: 36px
+    height: 34px;
+    line-height: 34px
 }
 
 .el-input--medium .el-input__icon {
-    line-height: 36px
+    line-height: 34px
 }
 
 .el-input--small {
@@ -2371,7 +2371,7 @@ body {
 
 .el-dropdown-menu__item {
     list-style: none;
-    line-height: 36px;
+    line-height: 34px;
     padding: 0 20px;
     margin: 0;
     font-size: 14px;
@@ -2550,8 +2550,8 @@ body {
 .el-menu--horizontal .el-menu .el-submenu__title {
     background-color: #222933;
     float: none;
-    height: 36px;
-    line-height: 36px;
+    height: 34px;
+    line-height: 34px;
     padding: 0 10px;
     color: #bbb
 }
@@ -2831,7 +2831,7 @@ body {
     position: absolute;
     z-index: 1;
     top: 1px;
-    width: 40px;
+    width: 34px;
     height: auto;
     text-align: center;
     background: #313846;
@@ -2887,7 +2887,7 @@ body {
 
 .el-input-number--medium .el-input-number__increase,
 .el-input-number--medium .el-input-number__decrease {
-    width: 36px;
+    width: 34px;
     font-size: 14px
 }
 
@@ -3013,7 +3013,7 @@ body {
     border: 1px solid #121820;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    height: 40px
+    height: 34px
 }
 
 .el-radio.is-bordered.is-checked {
@@ -3032,7 +3032,7 @@ body {
 .el-radio--medium.is-bordered {
     padding: 10px 20px 0 10px;
     border-radius: 4px;
-    height: 36px
+    height: 34px
 }
 
 .el-radio--medium.is-bordered .el-radio__label {
@@ -3344,7 +3344,7 @@ body {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     line-height: normal;
-    height: 40px
+    height: 34px
 }
 
 .el-checkbox.is-bordered.is-checked {
@@ -3363,7 +3363,7 @@ body {
 .el-checkbox.is-bordered.el-checkbox--medium {
     padding: 7px 20px 7px 10px;
     border-radius: 4px;
-    height: 36px
+    height: 34px
 }
 
 .el-checkbox.is-bordered.el-checkbox--medium .el-checkbox__label {
@@ -3758,7 +3758,7 @@ body {
     margin: 0;
     display: inline-block;
     position: relative;
-    width: 40px;
+    width: 34px;
     height: 20px;
     border: 1px solid #121820;
     outline: 0;
@@ -4306,7 +4306,7 @@ body {
     display: inline-block;
     padding-left: 10px;
     padding-right: 10px;
-    line-height: 40px;
+    line-height: 34px;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     overflow: hidden;
@@ -4704,7 +4704,7 @@ body {
 }
 
 .el-table-filter__list-item {
-    line-height: 36px;
+    line-height: 34px;
     padding: 0 10px;
     cursor: pointer;
     font-size: 14px
@@ -5227,7 +5227,7 @@ body {
 }
 
 .el-range-editor--medium.el-input__inner {
-    height: 36px
+    height: 34px
 }
 
 .el-range-editor--medium .el-range-separator {
@@ -5724,7 +5724,7 @@ body {
 .el-time-panel__footer {
     border-top: 1px solid #e4e4e4;
     padding: 4px;
-    height: 36px;
+    height: 34px;
     line-height: 25px;
     text-align: right;
     -webkit-box-sizing: border-box;
@@ -5934,7 +5934,7 @@ body {
 }
 
 .el-message-box__status+.el-message-box__message {
-    padding-left: 36px;
+    padding-left: 34px;
     padding-right: 12px
 }
 
@@ -6212,11 +6212,11 @@ body {
 }
 
 .el-form-item--medium .el-form-item__label {
-    line-height: 36px
+    line-height: 34px
 }
 
 .el-form-item--medium .el-form-item__content {
-    line-height: 36px
+    line-height: 34px
 }
 
 .el-form-item--small .el-form-item__label {
@@ -6257,14 +6257,14 @@ body {
     float: left;
     font-size: 14px;
     color: #eee;
-    line-height: 40px;
+    line-height: 34px;
     padding: 0 12px 0 0;
     -webkit-box-sizing: border-box;
     box-sizing: border-box
 }
 
 .el-form-item__content {
-    line-height: 40px;
+    line-height: 34px;
     position: relative;
     font-size: 14px
 }
@@ -6459,10 +6459,10 @@ body {
 
 .el-tabs__item {
     padding: 0 20px;
-    height: 40px;
+    height: 34px;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    line-height: 40px;
+    line-height: 34px;
     display: inline-block;
     list-style: none;
     font-size: 14px;
@@ -7555,8 +7555,8 @@ body {
 }
 
 .el-slider__button-wrapper {
-    height: 36px;
-    width: 36px;
+    height: 34px;
+    width: 34px;
     position: absolute;
     z-index: 1001;
     top: -15px;
@@ -7673,7 +7673,7 @@ body {
     float: none;
     position: absolute;
     bottom: 22px;
-    width: 36px;
+    width: 34px;
     margin-top: 15px
 }
 
@@ -7808,7 +7808,7 @@ body {
 
     50% {
         stroke-dasharray: 90, 150;
-        stroke-dashoffset: -40px
+        stroke-dashoffset: -34px
     }
 
     100% {
@@ -7825,7 +7825,7 @@ body {
 
     50% {
         stroke-dasharray: 90, 150;
-        stroke-dashoffset: -40px
+        stroke-dashoffset: -34px
     }
 
     100% {
@@ -8120,6 +8120,12 @@ body {
 }
 
 .el-col-12 {
+    /* 让行内的div全部能够垂直对齐 */
+    display: inherit;
+    /* 或者 */
+    /* display: contents; */
+    /* display: flex; */
+    /* display: inline-flex; */
     width: 50%
 }
 
@@ -10831,7 +10837,7 @@ body {
 .el-upload-dragger .el-icon-upload {
     font-size: 67px;
     color: #eee;
-    margin: 40px 0 16px;
+    margin: 34px 0 16px;
     line-height: 50px
 }
 
@@ -10984,7 +10990,7 @@ body {
 .el-upload-list__item-name {
     color: #eee;
     display: block;
-    margin-right: 40px;
+    margin-right: 34px;
     overflow: hidden;
     padding-left: 4px;
     text-overflow: ellipsis;
@@ -11070,7 +11076,7 @@ body {
     position: absolute;
     right: -15px;
     top: -6px;
-    width: 40px;
+    width: 34px;
     height: 24px;
     background: #13ce66;
     text-align: center;
@@ -11263,7 +11269,7 @@ body {
     position: absolute;
     right: -15px;
     top: -6px;
-    width: 40px;
+    width: 34px;
     height: 24px;
     background: #13ce66;
     text-align: center;
@@ -11355,7 +11361,7 @@ body {
     bottom: 0;
     left: 0;
     background-color: #222933;
-    height: 36px;
+    height: 34px;
     width: 100%;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -11364,7 +11370,7 @@ body {
     text-align: left;
     padding: 0 10px;
     margin: 0;
-    line-height: 36px;
+    line-height: 34px;
     font-size: 14px;
     color: #ccc
 }
@@ -11836,7 +11842,7 @@ body {
 }
 
 .el-step__icon.is-icon {
-    width: 40px
+    width: 34px
 }
 
 .el-step__icon-inner {
@@ -12116,8 +12122,8 @@ body {
     outline: 0;
     padding: 0;
     margin: 0;
-    height: 36px;
-    width: 36px;
+    height: 34px;
+    width: 34px;
     cursor: pointer;
     -webkit-transition: .3s;
     transition: .3s;
@@ -12354,7 +12360,7 @@ body {
     display: inline-block;
     position: relative;
     font-size: 14px;
-    line-height: 40px
+    line-height: 34px
 }
 
 .el-cascader .el-input,
@@ -12425,7 +12431,7 @@ body {
 
 .el-cascader--medium {
     font-size: 14px;
-    line-height: 36px
+    line-height: 34px
 }
 
 .el-cascader--small {
@@ -12783,7 +12789,7 @@ body {
     display: inline-block;
     position: relative;
     line-height: normal;
-    height: 40px
+    height: 34px
 }
 
 .el-color-picker.is-disabled .el-color-picker__trigger {
@@ -12791,12 +12797,12 @@ body {
 }
 
 .el-color-picker--medium {
-    height: 36px
+    height: 34px
 }
 
 .el-color-picker--medium .el-color-picker__trigger {
-    height: 36px;
-    width: 36px
+    height: 34px;
+    width: 34px
 }
 
 .el-color-picker--medium .el-color-picker__mask {
@@ -12860,8 +12866,8 @@ body {
     display: inline-block;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    height: 40px;
-    width: 40px;
+    height: 34px;
+    width: 34px;
     padding: 4px;
     border: 1px solid #e6e6e6;
     border-radius: 4px;
@@ -13002,7 +13008,7 @@ body {
 }
 
 .el-transfer-panel__body.is-with-footer {
-    padding-bottom: 40px
+    padding-bottom: 34px
 }
 
 .el-transfer-panel__list {
@@ -13086,8 +13092,8 @@ body {
 }
 
 .el-transfer-panel .el-transfer-panel__header {
-    height: 40px;
-    line-height: 40px;
+    height: 34px;
+    line-height: 34px;
     background: #313846;
     margin: 0;
     padding-left: 15px;
@@ -13099,7 +13105,7 @@ body {
 
 .el-transfer-panel .el-transfer-panel__header .el-checkbox {
     display: block;
-    line-height: 40px
+    line-height: 34px
 }
 
 .el-transfer-panel .el-transfer-panel__header .el-checkbox .el-checkbox__label {
@@ -13117,7 +13123,7 @@ body {
 }
 
 .el-transfer-panel .el-transfer-panel__footer {
-    height: 40px;
+    height: 34px;
     background: #222933;
     margin: 0;
     padding: 0;
