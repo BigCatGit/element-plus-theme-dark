@@ -7,3 +7,9 @@ element-plus暗色主题
 
 #### 用法正常简单, 将css放到assets/theme目录下, 
 #### 然后再main.ts 或者main.js 中加入代码: import './assets/theme/element-plus-darkt-heme.css' 即可
+
+#### 修改前：
+![image](https://github.com/BigCatGit/element-plus-theme-dark/blob/main/imgs/%E4%BF%AE%E6%94%B9%E5%89%8D.png)
+
+#### 修改后：
+![image](https://github.com/BigCatGit/element-plus-theme-dark/blob/main/imgs/%E4%BF%AE%E6%94%B9%E5%90%8E.png)
